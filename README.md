@@ -7,7 +7,4 @@
 - 💻 I’m currently working on web development technologies like React etc.
 - 📚 2020 Goals: *
 
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
 <br />
