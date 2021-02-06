@@ -5,7 +5,7 @@
 ## I'm a Software Engineer
 
 - 💻 I’m currently working with web development technologies like Asp.NET etc.
-- 📚 I’m currently learning web development technologies like React, ReactNative etc.
+- 📚 I’m currently learning web development technologies like React, ReactNative, Flutter etc.
 - 🥅 2021 Goals: *
 
 <br />
